@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "source ./sendgrid.env && node client.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.2.5",
+    "google-spreadsheet": "^3.0.13"
+  }
+}

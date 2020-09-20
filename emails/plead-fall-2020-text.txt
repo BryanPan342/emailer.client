@@ -1,0 +1,23 @@
+<div>Hi NAME!!</div>
+
+<p>Do you have an idea that you haven't pulled the trigger on yet? If you've got extra time during quarantine, we'd like to invite you to bring your craziest ideas to the table!!! We're continuing Creative Labs projects this quarter and would love to showcase your project and vision 😊 </p>
+
+<div>Project Lead Apps have been extended and are due by Thursday 11:59 PM!</div>
+
+<br/>
+
+<div>Can't wait to see what you send our way!</div>
+
+<br/>
+
+<div>❤ CL Fam</div>
+
+<br/>
+
+<a style="background-color:#b51934; border:1px solid #333333;
+border-color:#b51934; border-radius:0px;border-width:1px;
+color:#ffffff;display:inline-block;
+font-family:verdana,geneva,sans-serif;font-size:16px;
+font-weight:bold;letter-spacing:1px;line-height:30px;
+padding:012px 20px 12px 20px;text-align:center; text-decoration:none" 
+href="https://docs.google.com/forms/d/e/1FAIpQLSf-tGV3Rws7PvwnjSzWYWAibdX8-FYtQwisjBfZnLk1C2bxtA/viewform?usp=sf_link" target="_blank">Apply</a>
